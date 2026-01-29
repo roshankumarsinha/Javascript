@@ -26,6 +26,7 @@
     <li><a href="https://chatgpt.com/share/69204ff1-42b4-8006-ad62-b3934fb453af">Implement your own cache/memoized function</a></li>
     <li><a href="https://chatgpt.com/share/6920629b-7254-8006-ab67-484b919e1b31">Flatten Nested Object and Flatten Nested Array</a></li>
     <li><a href="https://chatgpt.com/share/68ad9a22-0f5c-8006-87ad-63996e3886f3">Cloning in JS, Deep clone v/s Shadow clone, Implement Deep Clone</a></li>
+    <li><a href="https://chatgpt.com/share/697afeeb-da78-8006-8b8f-4066d6408591">Implement own Bind Function</a></li>
     <li>
         Concurrency Task Scheduler
         <ul>
