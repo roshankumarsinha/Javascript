@@ -2,7 +2,7 @@
 
 <h2>Notes/Concepts of JS</h2>
 <ul>
-  <li><a href="https://alok722.github.io/namaste-javascript-notes/dist/lectures.html">Basic JS Notes</a></li>
+  <li><a href="https://alok722.github.io/namaste-javascript-notes/lectures.html">Basic JS Notes</a></li>
   <li>Rest Study from JavaScript Folder Notes</li>
   <li><a href="https://chatgpt.com/share/68fb4a34-0490-8006-ae73-60fd54ad37d2">Call, Apply, Bind for Normal, Arrow and IIFE Functions</a></li>
   <li><a href="https://chatgpt.com/share/691f42a2-54a0-8006-b3ff-e908562b172b">THIS behaviour for Normal, Arrow and IIFE Functions</a></li>
