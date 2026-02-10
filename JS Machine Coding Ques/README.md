@@ -34,7 +34,7 @@
             <li><a href="https://chatgpt.com/share/69208339-c640-8006-9adf-560b4015592c">ChatGPT Solution</a></li>
         </ul>
     </li>
-    <li><a href="https://namastedev.com/practice/jsonstringify">Implement JSON.stringify</a></li>
+    <li><a href="https://chatgpt.com/share/698b20bf-9f4c-8006-a47a-8eb811b3641a">Implement JSON.stringify</a></li>
     <li><a href="https://chatgpt.com/share/69307276-8cb8-8006-a69b-fe586c1c70cb">Implement LRU-Cache</a></li>
     <li><a href="https://chatgpt.com/share/6975f203-8c74-8006-b5a7-c6b0307cec67">Implement own EventEmitter Class</a></li>
     <li>
