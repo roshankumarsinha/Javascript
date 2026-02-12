@@ -111,6 +111,19 @@
     <li>
         <b>Object :-</b>
         <ul>
+            <li>
+                <b>Order of Object :-</b>
+                <ul>
+                    <li>Object doesn't maintain insertion order</li>
+                    <li>Object maintains order of keys in this way :-
+                        <ul>
+                            <li>First it maintains order of keys which are integer like keys (like 1, 2, 3, etc.), and they are printed in ascending order of integer. Note -ve and float values are counted as string and not integers</li>
+                            <li>Then it maintains order of keys which are string but not integer like keys (like "name", "age", etc.). These are printed in insertion order.</li>
+                            <li>Example : <code>const obj = { name: "Roshan", 1: "one", 3: "three", 2: "two", age: 25 }; console.log(obj);</code> Output will be : <code>{ '1': 'one', '2': 'two', '3': 'three', name: 'Roshan', age: 25 }</code></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
             <li>Object is a collection of key-value pairs.</li>
             <li>Object.groupBy(obj, callbackFn) -> Here, obj is Array of object and callbackFn takes each element of array one by one, it returns in an object where keys represent the grouping criteria and values are arrays of the grouped elements.
             <li>Object.groupBy(obj, callbackFn) -> Here, obj is Array of object and callbackFn takes each element of array one by one, it returns in an object where keys represent the grouping criteria and values are arrays of the grouped elements.<pre>
