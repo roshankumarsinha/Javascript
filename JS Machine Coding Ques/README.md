@@ -37,6 +37,7 @@
     <li><a href="https://chatgpt.com/share/698b20bf-9f4c-8006-a47a-8eb811b3641a">Implement JSON.stringify</a></li>
     <li><a href="https://chatgpt.com/share/69307276-8cb8-8006-a69b-fe586c1c70cb">Implement LRU-Cache</a></li>
     <li><a href="https://chatgpt.com/share/6975f203-8c74-8006-b5a7-c6b0307cec67">Implement own EventEmitter Class</a></li>
+    <li><a href="https://chatgpt.com/share/69c67e0b-05d8-83e8-84d5-8b8d59505209">Implement own GroupBy</a></li>
     <li>
         <a href="https://chatgpt.com/share/6957b499-1a98-8006-ad9a-203ff00c5b0b">Implement Dummy Fetch with Mock API call with retry and delay</a>
         <ul>
